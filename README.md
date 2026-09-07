@@ -8,7 +8,7 @@ Beberapa minggu terakhir saya mencari platform hiburan digital yang tidak ribet,
 Pola kerja saya tidak selalu teratur. Ada hari yang longgar, ada hari yang padat. Yang saya butuhkan bukan platform yang menuntut waktu lama untuk setup, melainkan ruang hiburan yang bisa dibuka sebentar, dinikmati, lalu ditutup tanpa sisa urusan teknis. Banyak layanan digital yang menarik di layar, tapi tersendat di bagian yang paling dasar: masuknya saldo dan keluarnya dana.
 Itu alasan saya menempatkan kecepatan transaksi sebagai kriteria utama. Hiburan seharusnya terasa ringan. Kalau setiap kali ingin mulai harus menunggu konfirmasi berlapis, rasa nyaman langsung hilang.
 #Kesan pertama: antarmuka yang tidak membingungkan
-Saat pertama membuka SENSA69, yang saya perhatikan bukan janji-janji besar, melainkan apakah menu mudah dipahami. Alurnya cukup linear: buat akun, masuk, lihat ringkasan saldo, lalu pilih aktivitas hiburan yang tersedia.
+Saat pertama membuka <a href="https://hr.era.gov.kh/">SENSA69</a>, yang saya perhatikan bukan janji-janji besar, melainkan apakah menu mudah dipahami. Alurnya cukup linear: buat akun, masuk, lihat ringkasan saldo, lalu pilih aktivitas hiburan yang tersedia.
 Tata letaknya tidak ramai. Tombol penting mudah ditemukan. Di ponsel, halaman tidak terasa “berat”; pergantian menu relatif cepat. Bagi saya ini penting karena sebagian besar waktu saya memakai perangkat genggam, bukan laptop.
 Pendaftaran juga tidak bertele-tele. Data yang diminta standar untuk layanan digital pada umumnya. Setelah akun aktif, saya langsung mencoba bagian yang paling ingin saya uji: transaksi.
 #Bagian yang paling saya uji: isi saldo dan penarikan
