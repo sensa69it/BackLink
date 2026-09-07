@@ -1,4 +1,5 @@
 #Pengalaman Mencoba Sensa138 sebagai Pilihan Hiburan Online yang Transaksinya Cepat
+<img width="1672" height="941" alt="28454870-31c9-4509-8d85-503d5e97bc91" src="https://github.com/user-attachments/assets/765be780-d5af-40a9-8ef4-84b8697e8c1b" />
 
 Beberapa minggu terakhir saya mencari platform hiburan digital yang tidak ribet, bisa diakses dari ponsel, dan yang paling penting: proses isi saldo serta penarikannya tidak membuat saya menunggu. Setelah membandingkan beberapa layanan, saya memutuskan mencoba Sensa138. Tulisan ini merangkum pengalaman saya dari awal pendaftaran sampai beberapa hari pemakaian—bukan iklan, melainkan catatan pribadi yang saya harap berguna bagi orang yang sedang mencari hiburan online dengan alur transaksi yang ringkas.
 #Mengapa saya mulai mencari hiburan digital yang “cepat selesai”
